@@ -1,6 +1,5 @@
 """
 main.py
-Demo driver that runs every functional requirement (FR-01 to FR-10).
 Run with:  python main.py
 """
 
